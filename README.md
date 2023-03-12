@@ -14,7 +14,7 @@ The book link can be accessed at the address: https://www.academia.edu/73452146.
 <br>
 </br>
 
-## Publications related to this book include the following papers:
+## An example of a publication related to this book:
 
 <a href="https://www.academia.edu/39509371" target="_blank">Fuzzy and Artificial Neural Networks-Based Intelligent Control Systems Using Python</a>
 
