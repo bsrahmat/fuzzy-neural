@@ -24,5 +24,5 @@ https://www.researchgate.net/profile/Basuki-Rahmat-2
 
 ## Buy the printed version of this book at Shopee:
 
-<a href="https://shopee.co.id/product/78709625/2221051549?smtt=0.78711099-1649659904.9" target="_blank"><img src="https://github.com/bsrahmat/fuzzy-neural/blob/main/beli_fuzzy-jst.jpg" alt="" class="img-responsive" width="300">
+<a href="https://shopee.co.id/product/78709625/2221051549?smtt=0.78711099-1649659904.9" target="_blank"><img src="https://github.com/bsrahmat/fuzzy-neural/blob/main/beli_fuzzy-jst.jpg" alt="" class="img-responsive" width="800">
 </a>
