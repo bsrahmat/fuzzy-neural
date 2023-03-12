@@ -14,7 +14,7 @@ https://github.com/bsrahmat/fuzzy-neural/blob/main/buku1.jpg
 https://www.academia.edu/39509371
 
 
-Other publications by the Author:
+## Other publications by the Author:
 
 https://fitri.academia.edu/BasukiRahmat
 
