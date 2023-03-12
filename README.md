@@ -9,5 +9,14 @@ https://github.com/bsrahmat/fuzzy-neural/blob/main/buku1.jpg
 </p>
 
 
+## Publications related to this book include the following papers:
 
+https://www.academia.edu/39509371
+
+
+Other publications by the Author:
+
+https://fitri.academia.edu/BasukiRahmat
+
+https://www.researchgate.net/profile/Basuki-Rahmat-2
 
