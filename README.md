@@ -54,7 +54,7 @@ https://www.io-t.net/
 <br>
 </br>
 
-## Other research by Researchers can be found also at:
+## Other books by the Author can be found also at:
 
 http://www.i-ot.net/
 
