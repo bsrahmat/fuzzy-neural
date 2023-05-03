@@ -1,4 +1,4 @@
-# iTCLab Kit Test - 1st Program
+# Fuzzy and Neural Networks Programming for Intelligent Control Systems
 
 This is a collection of scripts written using the Python Jupyter Notebook. This collection of scripts is a support for the Book Fuzzy and Neural Networks Programming for Intelligent Control Systems (Indonesian version).
 
